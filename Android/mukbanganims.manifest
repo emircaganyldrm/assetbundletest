@@ -1,0 +1,34 @@
+ManifestFileVersion: 0
+CRC: 1788746990
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d44391c108cfc83e3f8f51f748d301bc
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 890722c09e2d4c3e1bd4204b00f7ec3c
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/ArtAssets/Animations/Kylie/MukBang_Animations/Kylie@EatABug.fbx
+- Assets/ArtAssets/Animations/Kylie/MukBang_Animations/kylie@SlapOctopus.fbx
+- Assets/ArtAssets/Animations/Kylie/MukBang_Animations/Kylie@Vomit.fbx
+- Assets/ArtAssets/Animations/Kylie/MukBang_Animations/kylie@EathotChili.fbx
+- Assets/ArtAssets/Animations/Controllers/Kylie/KylieMukbangAC.controller
+- Assets/ArtAssets/Animations/Kylie/MukBang_Animations/kylie@Idle3.fbx
+- Assets/ArtAssets/Animations/Kylie/MukBang_Animations/kylie@EatOctopus.fbx
+- Assets/ArtAssets/Animations/Kylie/MukBang_Animations/Kylie@TouchChiliToEyes.fbx
+- Assets/ArtAssets/Animations/Kylie/MukBang_Animations/kylie@Idle2.fbx
+- Assets/ArtAssets/Animations/Kylie/MukBang_Animations/Kylie@StickOctopusNose.fbx
+- Assets/ArtAssets/Animations/Kylie/MukBang_Animations/kylie@Idle1.fbx
+- Assets/ArtAssets/Animations/Kylie/MukBang_Animations/Kylie@HotDog_Challange.fbx
+Dependencies: []

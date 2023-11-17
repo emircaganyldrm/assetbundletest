@@ -1,0 +1,31 @@
+ManifestFileVersion: 0
+CRC: 3761091822
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6edc3bd997cab47b3345d77e1fed8016
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 890722c09e2d4c3e1bd4204b00f7ec3c
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/ArtAssets/Animations/Kylie/Tease_Animations/Kylie@Light_Item.fbx
+- Assets/ArtAssets/Animations/Kylie/Tease_Animations/Kylie@Cute_Item.fbx
+- Assets/ArtAssets/Animations/Kylie/Tease_Animations/Kylie@DisgustingItem.fbx
+- Assets/ArtAssets/Animations/Kylie/Tease_Animations/Kylie@Idle1.fbx
+- Assets/ArtAssets/Animations/Kylie/Tease_Animations/Kylie@HeavyItem.fbx
+- Assets/ArtAssets/Animations/Kylie/Tease_Animations/Kylie@Idle3.fbx
+- Assets/ArtAssets/Animations/Kylie/Tease_Animations/Kylie@Idle2.fbx
+- Assets/ArtAssets/Animations/Kylie/Tease_Animations/Kylie@Idle4.fbx
+- Assets/ArtAssets/Animations/Controllers/Kylie/KylieTeaseAC.controller
+Dependencies: []

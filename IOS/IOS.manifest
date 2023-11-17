@@ -1,0 +1,13 @@
+ManifestFileVersion: 0
+CRC: 2706051417
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: funboxinganims
+      Dependencies: {}
+    Info_1:
+      Name: mukbanganims
+      Dependencies: {}
+    Info_2:
+      Name: teaseanims
+      Dependencies: {}
