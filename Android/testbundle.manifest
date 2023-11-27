@@ -1,0 +1,35 @@
+ManifestFileVersion: 0
+CRC: 2569524698
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ff4b64bf91ed26f8564050e74fe75bec
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c34ec4e707aa6ee4001cc15a810d99bb
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: a1fac1580236eaa448f40d72cac4f3d4, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/UdoGames/TestCube.prefab
+Dependencies: []
